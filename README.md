@@ -1,4 +1,4 @@
-It's an openGL project.
+It's an openGL project of village scenario.
 
 ## How to run
 
