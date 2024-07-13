@@ -1,6 +1,6 @@
-It's a openGL project.
+It's an openGL project.
 
-##How to run
+## How to run
 
 First need to setup OpenGL.Then run the code.
 
